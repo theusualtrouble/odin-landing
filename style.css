@@ -131,7 +131,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 120px;
+    gap: 360px;
     border-radius: 12px;
     padding: 24px 48px;
 }
